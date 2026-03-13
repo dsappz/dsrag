@@ -1,0 +1,14 @@
+Dana | 00:00
+So right now, when a client signs a contract, there's no planning for what data they'll send us or what reports they'll need. They just send us whatever random stuff they track. And then we have to figure it out after the fact.
+
+Dana | 00:15
+The turnaround time is terrible. It can take three to six months just to get the first accurate report out. And during that time, we're doing all this reactive field mapping, trying to make sense of whatever data format they sent.
+
+Dana | 00:30
+There's this blame game that happens. Client Solutions says the data is the problem. Reporting says it's Client Solutions' fault. Data team says it's both. And the client is stuck in the middle waiting.
+
+Dana | 00:45
+If we had automated validation upfront, we could catch these issues in days instead of months. And if we had a metadata-driven ingestion process, we could cut that 3-6 month onboarding time down to maybe 4-6 weeks.
+
+Dana | 01:00
+The real waste here is all the waiting. Clients send data, then wait weeks for us to map it. We find errors, then wait for them to resend. It's just back and forth, back and forth.

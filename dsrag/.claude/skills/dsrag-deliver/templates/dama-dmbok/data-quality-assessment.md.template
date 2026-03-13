@@ -1,0 +1,82 @@
+# Data Quality Assessment
+
+**Version:** {{VERSION}}
+**Project:** {{PROJECT_ID}}
+**Date:** {{TIMESTAMP}}
+**Framework:** DAMA-DMBOK v2
+
+---
+
+## Executive Summary
+
+{{AI_SYNTHESIS}}
+Prompt: "Summarize data quality state based on problems categorized as 'Data Quality'.
+Highlight severity, business impact, root causes. Keep to 2-3 paragraphs."
+{{/AI_SYNTHESIS}}
+
+---
+
+## Data Quality Issues
+
+{{KNOWLEDGE_BASE: problems/by_category/data_quality_problems.md}}
+
+---
+
+## Data Quality Dimensions Analysis
+
+{{AI_SYNTHESIS}}
+Prompt: "Map identified data quality problems to DAMA-DMBOK dimensions:
+- Accuracy (correctness)
+- Completeness (no missing data)
+- Consistency (same across systems)
+- Timeliness (freshness)
+- Validity (conforms to rules)
+- Uniqueness (no duplicates)
+
+Format as table: Dimension | Issues Found | Severity | Source"
+{{/AI_SYNTHESIS}}
+
+---
+
+## Root Cause Analysis
+
+{{AI_SYNTHESIS}}
+Prompt: "Analyze root causes of data quality issues from problem statements.
+Group by: Process, Technology, People, Data Architecture.
+Cite specific problems (PROB-XXX)."
+{{/AI_SYNTHESIS}}
+
+---
+
+## Impact Assessment
+
+{{AI_SYNTHESIS}}
+Prompt: "Quantify business impact of data quality issues where mentioned.
+Examples:
+- Financial: Incorrect reporting led to $X discrepancy
+- Operational: Y hours wasted on reconciliation
+- Strategic: Unable to demonstrate value to clients
+
+Format as table with sources."
+{{/AI_SYNTHESIS}}
+
+---
+
+## Recommended Data Quality Framework
+
+{{AI_SYNTHESIS}}
+Prompt: "Based on organizational structure and identified issues,
+recommend data quality framework:
+- Governance structure (who owns quality)
+- Quality metrics to track
+- Validation processes needed
+- Monitoring approach
+
+Align recommendations to current organizational constraints from stakeholder analysis."
+{{/AI_SYNTHESIS}}
+
+---
+
+## Appendix: Data Processes
+
+{{KNOWLEDGE_BASE: vsm/}}

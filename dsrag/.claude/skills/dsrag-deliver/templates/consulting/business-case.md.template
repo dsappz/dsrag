@@ -1,0 +1,131 @@
+# Business Case: {{PROJECT_NAME}}
+
+**Version:** {{VERSION}}
+**Project:** {{PROJECT_ID}}
+**Date:** {{TIMESTAMP}}
+**Framework:** Management Consulting
+
+---
+
+## Executive Summary
+
+{{AI_SYNTHESIS}}
+Prompt: "Synthesize a business case executive summary based on:
+- All critical and high problems from knowledge base
+- Key stakeholder pain points
+- Strategic objectives mentioned
+- Quantified impacts where available
+
+Focus on: Problem statement (current pain), proposed solution (platform/process), expected benefits.
+Keep to 3-4 paragraphs.
+"
+{{/AI_SYNTHESIS}}
+
+---
+
+## Current State Assessment
+
+### Problems Identified
+
+{{KNOWLEDGE_BASE: problems/problem_index.md}}
+
+### Stakeholder Perspective
+
+{{AI_SYNTHESIS}}
+Prompt: "Summarize stakeholder perspectives on current state problems.
+Group by role: Executive, IT Leadership, Analytics Team, Operations.
+Highlight consensus vs. divergent views.
+"
+{{/AI_SYNTHESIS}}
+
+### Process Inefficiencies
+
+{{KNOWLEDGE_BASE: vsm/}}
+
+---
+
+## Proposed Solution
+
+{{AI_SYNTHESIS}}
+Prompt: "Based on discussions in summaries and stakeholder profiles,
+describe the proposed solution. Include:
+- Platform/technology choices discussed
+- Process changes recommended
+- Organizational changes needed
+
+Synthesize from all available knowledge, cite sources.
+"
+{{/AI_SYNTHESIS}}
+
+---
+
+## Expected Benefits
+
+### Quantified Benefits
+
+{{AI_SYNTHESIS}}
+Prompt: "Extract quantified benefits mentioned across knowledge base.
+Format as table: Benefit | Current State | Target State | Source
+
+Examples:
+- Time savings: 8 hours → 1 hour (Value stream analysis)
+- Error reduction: 27% duplicate rate → <1% (Problem PROB-003)
+"
+{{/AI_SYNTHESIS}}
+
+### Qualitative Benefits
+
+{{AI_SYNTHESIS}}
+Prompt: "List qualitative benefits (trust, morale, capability).
+Cite specific stakeholder quotes where mentioned.
+"
+{{/AI_SYNTHESIS}}
+
+---
+
+## Investment Required
+
+{{AI_SYNTHESIS}}
+Prompt: "If budget, cost, or investment mentioned in knowledge base, summarize.
+If not mentioned, state: 'Cost analysis not yet available in knowledge base.'
+"
+{{/AI_SYNTHESIS}}
+
+---
+
+## Risks & Mitigation
+
+{{AI_SYNTHESIS}}
+Prompt: "Identify risks mentioned in transcripts/summaries.
+Format: Risk | Impact | Mitigation | Source
+If organizational problems identified, flag as implementation risks.
+"
+{{/AI_SYNTHESIS}}
+
+---
+
+## Recommendation
+
+{{AI_SYNTHESIS}}
+Prompt: "Based on all evidence in knowledge base, state clear recommendation.
+Should organization proceed? What are critical success factors?
+Be objective - if evidence is thin, say so.
+"
+{{/AI_SYNTHESIS}}
+
+---
+
+## Appendix: Stakeholder Analysis
+
+{{KNOWLEDGE_BASE: stakeholders/stakeholder_map.md}}
+
+---
+
+## Appendix: Source Documents
+
+All findings in this business case are sourced from DSRAG knowledge base:
+- **Project:** {{PROJECT_ID}}
+- **Transcripts processed:** [To be calculated]
+- **Knowledge base location:** `.dsrag/{{PROJECT_ID}}/knowledge/`
+
+**Citation format:** All AI-synthesized sections cite original transcript sources with line numbers for verification.

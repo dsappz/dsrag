@@ -1,0 +1,281 @@
+# Request for Information
+# {{PROJECT_NAME}} — Cloud Data Platform Evaluation
+
+**RFI Reference:** {{PROJECT_ID}}-RFI-{{TIMESTAMP}}-001
+**Issued By:** [Client Name]
+**Prepared By:** [Consulting Firm] (Advisory Partner)
+**Date Issued:** [TBD]
+**Response Deadline:** [TBD]
+**Version:** {{VERSION}}
+
+---
+
+## Table of Contents
+
+1. [Introduction & Purpose](#1-introduction--purpose)
+2. [About the Organization](#2-about-the-organization)
+3. [Current State Architecture](#3-current-state-architecture)
+4. [Capability Requirements — MUST-HAVE](#4-capability-requirements--must-have)
+5. [Vendor Platform Overview — MUST-HAVE](#5-vendor-platform-overview--must-have)
+6. [Additional Value — NICE-TO-HAVE](#6-additional-value--nice-to-have)
+7. [Response Instructions & Timeline](#7-response-instructions--timeline)
+8. [Terms & Conditions](#8-terms--conditions)
+9. [Appendices](#9-appendices)
+
+---
+
+## 1. Introduction & Purpose
+
+### 1.1 Purpose
+
+{{AI_SYNTHESIS}}
+Prompt: "Write the RFI introduction section. Use growth-aspiration framing — frame the organization as scaling and investing, not as struggling or broken.
+
+Include:
+- Why this RFI is being issued (platform evaluation for growth)
+- What the organization seeks from vendor responses
+- How responses will be used (inform internal evaluation, not binding procurement)
+
+Keep to 2-3 paragraphs. Professional, consultative tone.
+
+IMPORTANT: Do NOT include specific financial metrics, customer counts, or error rates. Use sanitized, need-framed language throughout.
+"
+{{/AI_SYNTHESIS}}
+
+### 1.2 Scope
+
+This RFI focuses on **technical and functional platform capabilities**. Commercial terms, pricing, and licensing are addressed through a separate process and are not in scope for this document.
+
+### 1.3 Invited Vendors
+
+| # | Vendor | Platform |
+|---|---|---|
+| 1 | [Vendor 1] | [Platform Name] |
+| 2 | [Vendor 2] | [Platform Name] |
+| 3 | [Vendor 3] | [Platform Name] |
+| 4 | [Vendor 4] | [Platform Name] |
+| 5 | [Vendor 5] | [Platform Name] |
+
+> **Customization Note:** Populate vendor list based on project's platform evaluation scope. Typical data platform evaluations include 3-5 vendors.
+
+### 1.4 Confidentiality
+
+Information contained in this RFI is provided for the sole purpose of enabling vendors to prepare informed responses. Vendors must treat all information as confidential. Vendor responses will be treated as confidential and used solely for internal platform evaluation. Responses may be shared with advisory partners for evaluation purposes.
+
+---
+
+## 2. About the Organization
+
+{{AI_SYNTHESIS}}
+Prompt: "Write a sanitized company overview for the RFI. Draw from the knowledge base (stakeholder profiles, summaries, requirements) but apply these SENSITIVITY GUARDRAILS:
+
+DO NOT include:
+- Specific customer counts (use 'large number of' or '100+')
+- Revenue figures or financial metrics
+- Specific vendor costs or contract values
+- Internal team names or individual roles
+- Error rates, failure timelines, or specific problem metrics
+- Names of internal systems (use generic terms like 'core platform', 'legacy reporting tools')
+
+DO include:
+- Industry and business domain (sanitized)
+- Strategic direction (growth-aspiration framed)
+- Operating environment (cloud infrastructure, data sources, BI tools)
+- Data types handled (sensitivity level — financial, health-adjacent)
+- How responses will be evaluated
+
+Frame everything as NEEDS and ASPIRATIONS, not gaps or failures.
+Keep to 4-5 paragraphs.
+"
+{{/AI_SYNTHESIS}}
+
+---
+
+## 3. Current State Architecture
+
+{{AI_SYNTHESIS}}
+Prompt: "Create sanitized versions of the current state architecture diagrams for vendor consumption. Source from the consolidation architecture document.
+
+Create THREE diagrams:
+1. C1 System Context — sanitized (no internal names, no specific metrics, no system product names — use generic terms)
+2. C2 Container View — sanitized (show logical architecture layers, not specific product names)
+3. Data Flow Overview — sanitized (show data movement patterns, not specific tools)
+
+SANITIZATION RULES:
+- Replace specific system names with generic terms (e.g., 'Core Case Management Platform' instead of product name)
+- Remove all person names
+- Remove specific metrics (query times, error rates, latency numbers)
+- Remove internal dynamics notes
+- Keep the topology and data flow structure intact
+- Include a 'Key Technical Context' section with sanitized infrastructure summary
+
+Use Mermaid diagrams with muted material color palette.
+"
+{{/AI_SYNTHESIS}}
+
+---
+
+## 4. Capability Requirements — MUST-HAVE
+
+> **Design Pattern:** This RFI uses a hybrid structure — problem themes provide narrative context (the 'why'), structured criteria provide specific questions (the 'what').
+
+Each theme follows this pattern:
+- **Context** — A brief narrative describing the business need (aspiration-framed)
+- **Criteria** — Specific capabilities that vendors must address
+- **Response Guidance** — What a strong vendor response demonstrates
+
+{{AI_SYNTHESIS}}
+Prompt: "Generate the MUST-HAVE capability requirements section. Source themes from the knowledge base problems, value streams, and requirements.
+
+Use this RFI THEME FRAMEWORK (adapt to project — add/remove themes as appropriate):
+
+STANDARD THEMES for data platform RFIs:
+1. Scalable Data Ingestion & Processing
+2. Reporting, Analytics & Self-Service
+3. Data Quality & Governance
+4. Platform Extensibility & AI Readiness
+5. Operational Resilience & Platform Maturity
+6. Migration & Coexistence (include current state architecture reference)
+7. Standards & Conformance (interoperability, modularity, open formats, compliance, accessibility)
+
+For each theme:
+- Write a 2-3 sentence vendor-facing narrative (need-framed, not gap-framed)
+- Generate 4-6 MUST-HAVE criteria with IDs (T[theme#]-C[criterion#])
+- Each criterion: Name + 'What to Address in Your Response' description
+- Write response guidance (what a strong response demonstrates)
+
+TONE: Growth-aspiration framing. 'We need X to scale' not 'we're broken because Y.'
+SENSITIVITY: No specific numbers, no internal names, no system product names.
+
+For Theme 6 (Migration), reference Section 3 architecture diagrams and add one NICE-TO-HAVE for implementation plan.
+"
+{{/AI_SYNTHESIS}}
+
+---
+
+## 5. Vendor Platform Overview — MUST-HAVE
+
+In addition to capability themes, each vendor must provide:
+
+| ID | Requirement | What to Include |
+|---|---|---|
+| **V-1** | **Architectural Overview** | Provide a C1/C2-level architectural overview of your platform. Diagrams required. |
+| **V-2** | **Company Background & Qualifications** | Brief company description, market position, and relevant industry focus. |
+| **V-3** | **Reference Customers** | 2-3 reference customers in similar industries at comparable scale. Include contact information. |
+| **V-4** | **Platform Adoption Evidence** | Examples of similar platform adoption by customers in the last two years. |
+
+---
+
+## 6. Additional Value — NICE-TO-HAVE
+
+Vendors are encouraged to include additional content beyond MUST-HAVE criteria:
+
+| ID | Area | What to Include |
+|---|---|---|
+| **N-1** | **Vendor-Proposed Differentiators** | Capabilities not covered in MUST-HAVE criteria that the vendor believes are relevant. |
+| **N-2** | **Implementation Plan** | Proposed phased approach, timeline, milestones, resource model. |
+| **N-3** | **Licensing Model Overview** | Pricing model structure (not dollar amounts) — consumption, seat-based, reserved, etc. |
+| **N-4** | **Training & Enablement** | Training resources, certification paths, documentation, ongoing learning support. |
+| **N-5** | **Professional Services** | Implementation support options and quality assurance for third-party implementers. |
+| **N-6** | **Innovation Roadmap** | Upcoming features relevant to stated requirements (12-month horizon). |
+
+---
+
+## 7. Response Instructions & Timeline
+
+### 7.1 Format Requirements
+
+1. Responses in **PDF or Microsoft Office format**
+2. Address all MUST-HAVE criteria **sequentially in the order presented**
+3. If a criterion **cannot be satisfied**, clearly state why
+4. Architectural diagrams **required** for V-1
+5. **No page limit**
+
+### 7.2 Timeline
+
+| Event | Date |
+|---|---|
+| RFI issue date | [TBD] |
+| Deadline for vendor questions | [TBD — suggest +2 weeks] |
+| Responses to vendor questions published | [TBD — suggest +1 week after questions] |
+| **Vendor responses due** | **[TBD — suggest +4 weeks from issue]** |
+| Vendor demonstrations (if invited) | [TBD] |
+
+### 7.3 Q&A Process
+
+All questions submitted in writing to designated contact. Answers distributed to all participating vendors. Designated contact is sole point of contact.
+
+### 7.4 Demonstration Opportunity
+
+Top-scoring vendors may be invited for platform demonstrations (1-2 hours). Scenarios provided in advance, aligned to MUST-HAVE criteria.
+
+---
+
+## 8. Terms & Conditions
+
+1. **Information Gathering Only.** This RFI is not an offer to contract. No contract award guaranteed.
+2. **Binding Representations.** Vendor representations may be incorporated into future contracts.
+3. **No Vendor Costs Reimbursed.** Preparation costs are the vendor's responsibility.
+4. **Reserved Rights.** Issuer may amend, cancel, share responses with advisors, or accept/reject any response.
+5. **Response Ownership.** Responses become issuer's property upon submission.
+6. **Confidentiality.** Responses treated as confidential. Vendors must mark proprietary sections.
+7. **Non-Collusion.** Vendors certify no collusion in response preparation.
+
+---
+
+## 9. Appendices
+
+### Appendix A: Detailed Current State Architecture
+
+> Detailed versions of Section 3 diagrams with integration point inventory.
+
+### Appendix B: Glossary of Terms
+
+{{AI_SYNTHESIS}}
+Prompt: "Generate a glossary of technical terms used in this RFI. Include: BAA, CDC, CI/CD, C1/C2 diagrams, ELT/ETL, HIPAA, PHI, RBAC, RPO, RTO, SOC 2, SPII, WCAG, and any other terms used in the criteria sections."
+{{/AI_SYNTHESIS}}
+
+### Appendix C: Response Template
+
+```
+Criterion ID: [e.g., T1-C1]
+Criterion: [e.g., Change Data Capture]
+
+Platform Capability:
+[Describe how your platform addresses this criterion]
+
+Native vs. Integrated:
+[Native platform feature or third-party integration?]
+
+Maturity:
+[Generally Available, Preview/Beta, or Roadmap?]
+
+Reference Example:
+[Customer deployment where this capability was implemented]
+
+Limitations:
+[Known limitations, constraints, or prerequisites]
+```
+
+---
+
+## Template Usage Notes
+
+**RFI Design Principles (captured from brainstorm sessions):**
+
+1. **Growth-aspiration framing** — Every section framed as "we need X to scale" not "we're broken because Y"
+2. **Sensitivity guardrails** — No specific financials, customer counts, error rates, internal names, or system product names
+3. **Hybrid structure** — Problem themes as context (the why), structured criteria as questions (the what)
+4. **Binary classification** — MUST-HAVE vs. NICE-TO-HAVE in the RFI; custom numeric weights applied internally in scoring matrix
+5. **Commercial separation** — RFI covers technical/functional only; licensing model overview is NICE-TO-HAVE (structure not dollars)
+6. **Architecture sharing** — Current state C1/C2/data flow shared with vendors (technical topology, not business-sensitive); vendors also provide their own platform architecture
+7. **Scoring model** — Criteria (weighted) → capability score → platform ranking. Vendors never see weights.
+
+**Prerequisite:** Consolidation document `architecture.md` must exist for Section 3 diagrams.
+
+**Customization points:**
+- Vendor list (Section 1.3)
+- Capability themes (Section 4) — add/remove themes per project
+- Conformance standards (Theme 7) — adjust per regulatory environment
+- Timeline dates (Section 7)
+- Terms & conditions (Section 8) — adjust per client legal requirements

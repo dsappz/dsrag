@@ -1,0 +1,64 @@
+# Stakeholder Analysis: {{PROJECT_NAME}}
+
+**Version:** {{VERSION}}
+**Project:** {{PROJECT_ID}}
+**Date:** {{TIMESTAMP}}
+**Framework:** Management Consulting
+
+---
+
+## Executive Summary
+
+{{AI_SYNTHESIS}}
+Prompt: "Summarize key stakeholders, their interests, influence levels, and stance on proposed changes.
+Identify champions, resistors, and fence-sitters. Keep to 2-3 paragraphs."
+{{/AI_SYNTHESIS}}
+
+---
+
+## Stakeholder Profiles
+
+{{KNOWLEDGE_BASE: stakeholders/stakeholder_map.md}}
+
+---
+
+## Individual Profiles
+
+{{KNOWLEDGE_BASE: stakeholders/profiles/}}
+
+---
+
+## Power/Interest Matrix
+
+{{AI_SYNTHESIS}}
+Prompt: "Based on stakeholder profiles, categorize stakeholders into 4 quadrants:
+- High Power, High Interest (Key Players)
+- High Power, Low Interest (Keep Satisfied)
+- Low Power, High Interest (Keep Informed)
+- Low Power, Low Interest (Monitor)
+
+Format as markdown table with rationale."
+{{/AI_SYNTHESIS}}
+
+---
+
+## Engagement Strategy
+
+{{AI_SYNTHESIS}}
+Prompt: "Recommend engagement strategy per stakeholder based on:
+- Their pain points (from profiles)
+- Their decision authority
+- Their relationships to others
+- Organizational dynamics observed
+
+Be specific: Who to engage when, with what message."
+{{/AI_SYNTHESIS}}
+
+---
+
+## Appendix: Organizational Dynamics
+
+{{AI_SYNTHESIS}}
+Prompt: "Summarize organizational tensions, power dynamics, and relationship patterns observed.
+Cite specific examples from transcripts. Flag risks for change management."
+{{/AI_SYNTHESIS}}

@@ -1,0 +1,33 @@
+Speaker 2 | 04:50
+I can do my best. Yeah. Great. So the intake process. These are for reports, report requests or. Yeah, or if a client has an issue with a report that went out. So it's a little bit of both. It seemed like there was a large quantity.
+
+Speaker 2 | 06:36
+No.
+
+Speaker 2 | 06:38
+So the process is fairly straightforward, but a little bit unnecessary.
+So a client solutions person gets an error or a question about a report or they get a request for a specific report. That client solutions person sends an e mail to Team Member 3's team, which I think is this. EER yeah. The reporting team, the Erra team. The reporting team processes. That puts it into a ticket for the development team to review, and then that reporting team ends up being kind of like the project manager of that ticket to make sure the dev team is actually doing something. To go back and forth to the client solutions team.
+But the client solutions team will just go around the reporting team direct to the developer because they all know each other. Or they'll like pull in. The Client Solutions team will pull in like a carry and a Sam and say, no one's getting back to me. Why isn't anybody getting back to me?
+And then they all kind of, like. It's constant fires and constant, like, congealing around things.
+
+Speaker 2 | 08:18
+One.
+
+And so an enhancement in their language is not always like how we would think of a big improvement. It could be fixing something that is causing brokenness. But they don't think about it that way because they fix in the moment versus looking at the bigger picture fix that could solve those problems and it becomes an enhancement that ends up in the backlog that nobody really pays attention to, as far as I can tell.
+
+Speaker 2 | 16:20
+But they most of the account managers don't like that because they haven't checked the reports before it's going to the client.
+And considering how often they're wrong, they're worried a client is going to get a report that's wrong before they've had a chance to know that it's wrong.
+
+Hank | 23:21
+They I'm wondering if they disagreed.
+
+Speaker 2 | 23:22
+They at the time, until Alice brought it up, they kind of told us not to talk about the ingestion, like, at all. Like they were like, no, it's fine, it works. Although they would there was kind of an interesting blame game.
+Like everyone on if you look at the process of, like, client data all the way through to reporting, every team that was one above would blame the team behind it for why it didn't work. And so eventually it was like, well, the client solutions blames the reporting team is blaming the data team is blaming the client for sending them crappy data.
+And so that's how it flowed the whole way. And they so they would say there's a problem with the way that clients send us data. But then they would say we don't care how clients send us data because we don't want them to make it difficult. We want them to be able to send us whatever and we'll figure it out.
+But there's clearly a gap in send us whatever you want and we'll figure it out, because they're not figuring it out.
+
+Hank | 23:21
+They that's how Josh said yesterday that, like, sometimes a file will get ingested, but it won't get moved. And so for, like, I think you said nine months, a claim would be sitting there and, like, no one would be working on it.
+And so they would have like sent these planes to catch that. No one did anything.
