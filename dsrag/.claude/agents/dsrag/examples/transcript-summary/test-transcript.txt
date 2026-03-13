@@ -1,30 +1,62 @@
-Grace | 00:20
-Yeah, it's a level set. We. I was talking with David and Eric yesterday, man. And like, we've gotten a very different ClientCorp than the first two engagements. Yeah, they've been candid and they're actually communicating better, and I don't know if I don't know what changed.
-Maybe they trust us now, I'm not sure.
+Maya | 00:00
+Alright, thanks everyone for joining the kickoff. I want to make sure we're all aligned on scope, timeline, and how we'll work together over the next twelve weeks. Let's start with introductions. I'm Maya, I'll be leading the consulting team on this engagement.
 
-Grace | 01:19
-Same people. I haven't. I haven't seen Iris and Sam yet. So we'll see if maybe, like, they're really sad now, and we'll just see if they, like, did, like, a horror crux thing, like, passed it over or something. I don't know, but we'll find out.
-But, it's been like we talked to Carol yesterday, and he spoke, I mean, for probably like twenty minutes straight, just talked.
+Tom | 00:15
+Tom here, I'm the CIO for the city. I've been pushing for this modernization effort for about two years now, so I'm glad we're finally getting started. My main concern is making sure whatever we recommend is actually fundable and implementable.
 
-Grace | 01:55
-Yeah, they're still weird and Alice is always right, so it's yeah.
+Rachel | 00:30
+I'm Rachel, I run the permits and inspections division. I've been here fourteen years. I can tell you exactly what's broken because my team lives it every day. We're drowning in paper and our citizens are frustrated.
 
-Grace | 03:01
-So we met with Frank, who is a direct report to Bob and he's our he's now like our lead, I'll call him our lead architect from the ClientCorp side, which they haven't had before.
+Derek | 00:45
+Derek, digital services coordinator. I was hired about eight months ago specifically to help the city with digital transformation initiatives. This is the first major project I'll be leading internally.
 
-Grace | 03:03
-That's right. And so that that's a big one. But folks like Team Member 1 or Jack as folks on the it side, Team Member 2, et cetera, they're not they're dotted line to him for the engagement. And one of the things that's really come up in our interviews is around the client data ingestion process.
+Maya | 01:00
+Great. So the scope of this engagement is a twelve-week assessment. We're looking at the current state of permitting, inspections, and citizen-facing services. We'll deliver a current state report, a future state design, a vendor evaluation, and an implementation roadmap. We are not doing the actual implementation in this phase.
 
-Speaker 2 | 29:07
-And Sam and Karen are very nice. Sam is very friendly, outgoing, he wants to help us, he likes us. He'll chat with you might pick up your phone number from his your email and just text you randomly in meetings. He's very nice. Karen is very nice and likes us, but she's a little more reserved and I don't think she's ever had to be a strategic thinker about the business.
-And I feel like early on, we poked her a little bit about it, and I think she was a not outwardly offended, but I think a little bit touchy. But then she liked us more, and I think she's more open to having those kinds of conversations and sharing her ideas.
+Tom | 01:25
+I want to flag something early. We should start with permits before we tackle inspections. Permits is where the biggest citizen complaints are, and honestly it's where I think we can show the fastest wins to city council. If we try to boil the ocean on day one, we'll lose momentum.
 
-Hank | 23:21
-They I'm wondering if they disagreed.
+Rachel | 01:45
+I agree with Tom. The permit process is the most painful. We have citizens waiting six to eight weeks for something that should take two. If we can fix that first, it builds credibility for everything else.
 
-Speaker 2 | 23:22
-They that's very possible. They at the time, until Alice brought it up, they kind of told us not to talk about the ingestion, like, at all. Like they were like, no, it's fine, it works. Although they would there was kind of an interesting blame game.
-Like everyone on if you look at the process of, like, client data all the way through to reporting, every team that was one above would blame the team behind it for why it didn't work.
+Maya | 02:00
+That makes sense. We'll structure the assessment to go deep on permits in the first six weeks, then broaden to inspections and other services in weeks seven through twelve. Derek, are you comfortable being the internal project lead? You'd be our main point of contact and help coordinate access to staff and systems.
 
-Speaker 2 | 24:48
-Probably. I Alice was the only person who wanted to tackle client onboarding too, so it could be that she shifted focus to actually make them see those things. I don't know.
+Derek | 02:20
+Absolutely. I've been mapping out the stakeholders already. I can get you access to the permit clerks, the reviewers, the inspectors. Whatever you need. I'll also handle scheduling on our side.
+
+Maya | 02:35
+Perfect. I'd suggest we do weekly check-in meetings, probably Tuesday mornings, with this core group. We can adjust frequency if things are moving fast or if we hit blockers. Does that work for everyone?
+
+Tom | 02:50
+Tuesdays work for me. I'd also like a monthly briefing I can take to the city manager. She's going to want to see progress.
+
+Rachel | 03:00
+Tuesdays are fine. And I want to offer something. I think it would be really valuable for your team to do ride-alongs with my permit staff. Sit with them for a day, watch them process applications, see the frustrations firsthand. You'll learn more in one day of observation than a week of interviews.
+
+Maya | 03:20
+That's a fantastic idea, Rachel. We'll definitely take you up on that. We'll schedule those in the first two weeks. Derek, can you help coordinate?
+
+Derek | 03:30
+Sure, I'll set those up. I'll also pull together the list of systems we're currently using. I know we have at least four different platforms just for permits and inspections, and I'm not even sure they talk to each other.
+
+Tom | 03:45
+Let me raise the budget elephant in the room. This assessment is funded, we're good there. But whatever implementation comes out of this, that's going to need city council approval. We're talking about the next fiscal year budget cycle, which means our recommendations need to be ready by October so I can include them in the budget request.
+
+Maya | 04:05
+Understood. We'll make sure the roadmap includes cost estimates and phasing options so you have what you need for the budget process. Our final deliverable is due week twelve, which puts us in early June, well ahead of your October deadline.
+
+Derek | 04:20
+One thing I want to flag. I'm not sure we know all the systems we need to evaluate. There might be shadow IT situations where departments set up their own tools. I've already found two spreadsheet-based tracking systems that nobody in IT knew about. We should do a full inventory early on.
+
+Tom | 04:40
+Good point, Derek. That's exactly the kind of thing we need to surface. Let's make that system inventory a priority in the first two weeks alongside the ride-alongs.
+
+Maya | 04:55
+Agreed. Alright, let me summarize. Derek is our internal lead, we start with permits, weekly Tuesday check-ins, ride-alongs in weeks one and two, system inventory in parallel. Any last questions before we wrap?
+
+Rachel | 05:10
+Just one. Are we going to look at what other cities our size have done? I've heard Portland and Austin have done some interesting things with online permitting. I'd love to benchmark against them.
+
+Maya | 05:20
+Yes, benchmarking comparable municipalities is part of our standard approach. We'll include that in the current state report. Great question. Alright, let's get to work. I'll send out calendar invites for the Tuesday check-ins and we'll start scheduling ride-alongs this week.

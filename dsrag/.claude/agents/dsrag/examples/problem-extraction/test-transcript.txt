@@ -1,33 +1,32 @@
-Speaker 2 | 04:50
-I can do my best. Yeah. Great. So the intake process. These are for reports, report requests or. Yeah, or if a client has an issue with a report that went out. So it's a little bit of both. It seemed like there was a large quantity.
+Rachel | 00:10
+So if I'm being honest, the permit application process is broken. A resident comes in, fills out a paper form, and then it goes into a stack. My team processes them in order but between the review, the routing to the right department for sign-off, and getting it back, we're looking at six to eight weeks on average. It should be two weeks, max. People are furious and I don't blame them.
 
-Speaker 2 | 06:36
-No.
+Tom | 00:48
+And the worst part is we have no way to tell them where things stand. There's no tracking system. So what happens is the homeowner calls us, and my front desk staff spend hours every day just answering the phone telling people we don't know the status of their permit. We actually had one woman call seventeen times over three weeks. Seventeen times. And every time we had to tell her we'd look into it.
 
-Speaker 2 | 06:38
-So the process is fairly straightforward, but a little bit unnecessary.
-So a client solutions person gets an error or a question about a report or they get a request for a specific report. That client solutions person sends an e mail to Team Member 3's team, which I think is this. EER yeah. The reporting team, the Erra team. The reporting team processes. That puts it into a ticket for the development team to review, and then that reporting team ends up being kind of like the project manager of that ticket to make sure the dev team is actually doing something. To go back and forth to the client solutions team.
-But the client solutions team will just go around the reporting team direct to the developer because they all know each other. Or they'll like pull in. The Client Solutions team will pull in like a carry and a Sam and say, no one's getting back to me. Why isn't anybody getting back to me?
-And then they all kind of, like. It's constant fires and constant, like, congealing around things.
+Rachel | 01:25
+It's not just the citizens. My staff hate it too. They spend more time on the phone explaining why things are slow than actually processing permits. I've lost five people in the last two years out of a team of twelve. That's almost half. And when I do exit interviews, every single one of them says the same thing. They're tired of being yelled at for problems they can't fix. They feel like they're set up to fail.
 
-Speaker 2 | 08:18
-One.
+Tom | 02:10
+And the turnover makes everything worse because the new people don't know the process, so things slow down even more, which means more angry calls, which means more people quit. It's a vicious cycle.
 
-And so an enhancement in their language is not always like how we would think of a big improvement. It could be fixing something that is causing brokenness. But they don't think about it that way because they fix in the moment versus looking at the bigger picture fix that could solve those problems and it becomes an enhancement that ends up in the backlog that nobody really pays attention to, as far as I can tell.
+Rachel | 02:30
+The inspection scheduling is another disaster. Linda's team uses a whiteboard in their office to schedule inspections. A literal whiteboard. So if someone erases something or writes the wrong address, the inspector shows up at the wrong house. It happened three times last month. Three homeowners sitting home waiting for an inspector who never came because he was at the wrong address across town.
 
-Speaker 2 | 16:20
-But they most of the account managers don't like that because they haven't checked the reports before it's going to the client.
-And considering how often they're wrong, they're worried a client is going to get a report that's wrong before they've had a chance to know that it's wrong.
+Tom | 03:05
+I've tried to fix the technology side of this but we have three completely separate systems that don't talk to each other. The permits office has their paper-based tracking. Linda's inspections team has their own spreadsheet they started a few years ago. And then payments go through the city's financial system, which is a whole different platform. So when someone pays their permit fee, Rachel's team doesn't automatically know about it. Someone has to manually check the payment system and then update the paper file.
 
-Hank | 23:21
-They I'm wondering if they disagreed.
+Rachel | 03:42
+Right, and if that manual step gets missed, which it does, a permit sits there looking unpaid even though the citizen already paid. Then we send them a notice saying they haven't paid, and they come in angry with their receipt, and my staff has to apologize and fix it. It's embarrassing.
 
-Speaker 2 | 23:22
-They at the time, until Alice brought it up, they kind of told us not to talk about the ingestion, like, at all. Like they were like, no, it's fine, it works. Although they would there was kind of an interesting blame game.
-Like everyone on if you look at the process of, like, client data all the way through to reporting, every team that was one above would blame the team behind it for why it didn't work. And so eventually it was like, well, the client solutions blames the reporting team is blaming the data team is blaming the client for sending them crappy data.
-And so that's how it flowed the whole way. And they so they would say there's a problem with the way that clients send us data. But then they would say we don't care how clients send us data because we don't want them to make it difficult. We want them to be able to send us whatever and we'll figure it out.
-But there's clearly a gap in send us whatever you want and we'll figure it out, because they're not figuring it out.
+Tom | 04:10
+The real frustration for me is that I've put in budget requests for a unified permits and inspections system three years in a row now. Three years. And the city council has rejected it every single time. They say it's not a priority. Meanwhile we're hemorrhaging staff and citizens are losing faith in city services. The council sees the line item cost but they don't see the hidden costs of all this inefficiency.
 
-Hank | 23:21
-They that's how Josh said yesterday that, like, sometimes a file will get ingested, but it won't get moved. And so for, like, I think you said nine months, a claim would be sitting there and, like, no one would be working on it.
-And so they would have like sent these planes to catch that. No one did anything.
+Rachel | 04:48
+And honestly, even if we got the budget tomorrow, I'm not sure we have the expertise internally to run a technology implementation. Tom's IT team is stretched thin just keeping the lights on. Derek is great but he's one person. We'd need outside help and a real plan, not just buying software and hoping it works. We've seen that movie before with the scheduling app they tried to roll out for inspections. Nobody used it.
+
+Tom | 05:20
+That's fair. The scheduling app failure was partly a technology problem but mostly a change management problem. We bought the tool, dropped it on Linda's desk, and said here you go. No training, no input from her team on what they needed. Of course they didn't use it. I take responsibility for that. But it also burned a lot of goodwill and now everybody points to it as proof that technology doesn't work here.
+
+Rachel | 05:55
+The other thing that worries me is the paper records. We have filing cabinets going back decades. If there's a fire or a flood in that office, we lose everything. There's no backup. No digital copies. Every permit the city has ever issued for the last forty years is sitting in metal cabinets in a room with no sprinkler system. I've raised this with Marcus and he says it's on his list but nothing has happened.

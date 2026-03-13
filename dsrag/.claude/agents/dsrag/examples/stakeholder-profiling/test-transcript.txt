@@ -1,30 +1,47 @@
-Grace | 00:20
-Yeah, it's a level set. We. I was talking with David and Eric yesterday, man. And like, we've gotten a very different ClientCorp than the first two engagements. Yeah, they've been candid and they're actually communicating better, and I don't know if I don't know what changed.
-Maybe they trust us now, I'm not sure.
+Maya | 00:15
+Alright, so let's do a quick level set on the city team. Tom, you've been our main point of contact, but I want to make sure we've got the full picture of who's involved and how they all fit together. Can you start with your role?
 
-Grace | 01:19
-Same people. I haven't. I haven't seen Iris and Sam yet. So we'll see if maybe, like, they're really sad now, and we'll just see if they, like, did, like, a horror crux thing, like, passed it over or something. I don't know, but we'll find out.
-But, it's been like we talked to Carol yesterday, and he spoke, I mean, for probably like twenty minutes straight, just talked.
+Tom | 00:32
+Sure. So I'm the CIO, I report directly to the city manager, Janet. I oversee all of IT for the city, which is about thirty people across infrastructure, applications, and now this new digital services group. The permits and inspections side has been a pain point for years, but we've never had the budget or honestly the organizational will to tackle it properly.
 
-Grace | 01:55
-Yeah, they're still weird and Alice is always right, so it's yeah.
+Maya | 01:10
+And Rachel, tell me about your team.
 
-Grace | 03:01
-So we met with Frank, who is a direct report to Bob and he's our he's now like our lead, I'll call him our lead architect from the ClientCorp side, which they haven't had before.
+Rachel | 01:15
+I manage the permits office. We've got twelve staff, mix of senior folks who've been here forever and newer people who tend to leave pretty quickly. We handle residential and commercial building permits, zoning variances, all of it. Everything is still paper. I've been asking for a digital system for three years now and I'm honestly exhausted from fighting that fight.
 
-Grace | 03:03
-That's right. And so that that's a big one. But folks like Team Member 1 or Jack as folks on the it side, Team Member 2, et cetera, they're not they're dotted line to him for the engagement. And one of the things that's really come up in our interviews is around the client data ingestion process.
+Maya | 02:03
+Who else do we need to be aware of on the city side?
 
-Speaker 2 | 29:07
-And Sam and Karen are very nice. Sam is very friendly, outgoing, he wants to help us, he likes us. He'll chat with you might pick up your phone number from his your email and just text you randomly in meetings. He's very nice. Karen is very nice and likes us, but she's a little more reserved and I don't think she's ever had to be a strategic thinker about the business.
-And I feel like early on, we poked her a little bit about it, and I think she was a not outwardly offended, but I think a little bit touchy. But then she liked us more, and I think she's more open to having those kinds of conversations and sharing her ideas.
+Tom | 02:08
+So there's Linda Chen. She runs inspections. Linda has been with the city for twenty years, probably knows every building code and every process better than anyone alive. She's incredibly capable but she is not a fan of change. We tried to roll out a scheduling app two years ago and she basically refused to use it and her whole team followed her lead. If Linda doesn't buy in, nothing moves.
 
-Hank | 23:21
-They I'm wondering if they disagreed.
+Rachel | 02:45
+That's fair but I think the bigger issue with Linda is she doesn't trust that technology will work. She's seen so many failed IT projects here. And honestly, she's not wrong to be skeptical. But her team is still using a whiteboard to schedule inspections and that's creating real problems.
 
-Speaker 2 | 23:22
-They that's very possible. They at the time, until Alice brought it up, they kind of told us not to talk about the ingestion, like, at all. Like they were like, no, it's fine, it works. Although they would there was kind of an interesting blame game.
-Like everyone on if you look at the process of, like, client data all the way through to reporting, every team that was one above would blame the team behind it for why it didn't work.
+Maya | 03:12
+What about the digital services coordinator I've heard mentioned?
 
-Speaker 2 | 24:48
-Probably. I Alice was the only person who wanted to tackle client onboarding too, so it could be that she shifted focus to actually make them see those things. I don't know.
+Tom | 03:18
+That's Derek. Derek Washington. We hired him about six months ago specifically to drive this kind of modernization. He's sharp, came from a tech startup, very eager. But he doesn't have the institutional knowledge yet. He'll propose something and Linda or one of the old-timers will just shut it down because he doesn't understand why things are the way they are. I think he's getting frustrated.
+
+Rachel | 03:55
+Derek is great but he keeps trying to move too fast. He came to my team last month with a whole proposal for online permit applications and my staff just looked at him like he was speaking another language. You have to remember, some of my people have been doing this the same way for fifteen years. You can't just walk in and tell them everything is changing.
+
+Maya | 04:20
+Is there anyone else we should have on our radar?
+
+Tom | 04:25
+Marcus Webb. He's our facilities manager. He controls the building where the permits office operates, the Municipal Services Center. Any changes to how citizens interact with the space, any kiosks or digital signage or reconfiguring the service counter, that goes through Marcus. He's territorial about his building but he's reasonable if you bring him in early.
+
+Rachel | 04:55
+Marcus and I get along fine, but he and Linda have butted heads before. Something about how inspectors use the loading dock and park their vehicles. It's a turf thing. Not a big deal day to day but it means they don't naturally collaborate.
+
+Tom | 05:18
+The other dynamic you should know is that Linda and I have a good relationship. She trusts me because I've never forced technology on her team. But that also means I've maybe been too hands-off. Derek reports to me and I think Linda sees Derek as my proxy, which makes her more defensive. I need to manage that better.
+
+Maya | 05:45
+That's really helpful. And Rachel, how do you and Linda work together?
+
+Rachel | 05:50
+We have to coordinate constantly because a permit doesn't mean anything without an inspection. But we don't have a shared system. So my team issues a permit on paper, then we literally walk a copy down the hall to Linda's team. If something gets lost, the homeowner just waits and nobody knows why. Linda and I are fine personally but our processes are totally disconnected and that hurts citizens.
