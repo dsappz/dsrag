@@ -1,14 +1,23 @@
-Dana | 00:00
-So right now, when a client signs a contract, there's no planning for what data they'll send us or what reports they'll need. They just send us whatever random stuff they track. And then we have to figure it out after the fact.
+Rachel | 00:00
+So when a citizen wants a building permit, they have to physically come to city hall. There's no way to do it online. They walk up to the counter, we hand them a paper form, and they fill it out right there. Sometimes people forget documents and have to come back the next day.
 
-Dana | 00:15
-The turnaround time is terrible. It can take three to six months just to get the first accurate report out. And during that time, we're doing all this reactive field mapping, trying to make sense of whatever data format they sent.
+Rachel | 00:20
+Once they submit the paper application, one of my staff has to manually enter everything into our permitting system. It's an old DOS-based system from the nineties, and it takes about twenty minutes per application just for data entry. We process maybe thirty to forty applications a week, so that's a lot of staff time just typing things in.
 
-Dana | 00:30
-There's this blame game that happens. Client Solutions says the data is the problem. Reporting says it's Client Solutions' fault. Data team says it's both. And the client is stuck in the middle waiting.
+Rachel | 00:45
+After it's entered, the application goes to zoning review first. That queue is usually about two weeks because we only have two zoning reviewers for the whole city. They check setbacks, land use compliance, all of that. If there's an issue, the whole thing gets kicked back and the citizen has to start over from scratch. New form, new entry, back to the end of the line.
 
-Dana | 00:45
-If we had automated validation upfront, we could catch these issues in days instead of months. And if we had a metadata-driven ingestion process, we could cut that 3-6 month onboarding time down to maybe 4-6 weeks.
+Rachel | 01:10
+Assuming zoning approves it, then it goes to engineering review. That's another two-week wait, sometimes longer. So best case, you're looking at four to six weeks just to get through review, and that's if nothing gets rejected. If it does get rejected at the engineering stage, they start over completely. There's no way to just fix the one issue and resubmit.
 
-Dana | 01:00
-The real waste here is all the waiting. Clients send data, then wait weeks for us to map it. We find errors, then wait for them to resend. It's just back and forth, back and forth.
+Rachel | 01:35
+Inspection scheduling is a whole separate process. Once the permit is approved and the citizen starts their project, they have to call our office during business hours to schedule each inspection. We don't have online scheduling. The inspectors keep their own paper calendars, so sometimes we double-book or miss appointments because it's all manual.
+
+Rachel | 01:55
+And payment, that's another pain point. We only accept cash or check. No credit cards, no online payments. Citizens have to come in person to pay, or mail a check and then wait for it to clear before we process anything. That alone adds three to five days to the timeline.
+
+Rachel | 02:15
+What I'd love to see is an online portal where citizens can submit applications from home, upload their documents, and track the status of their permit in real time. If we had automated routing, the system could send applications to the right reviewer automatically instead of sitting in a physical inbox.
+
+Rachel | 02:40
+With digital payments and automated routing and maybe some parallel review instead of sequential, I think we could get the total turnaround from application to approved permit down to about two weeks. Right now it's four to six weeks minimum, and that's if everything goes perfectly. Most people experience six to eight weeks with at least one rejection cycle.
