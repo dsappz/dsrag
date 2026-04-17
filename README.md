@@ -1,7 +1,5 @@
 # DSRAG
 
-**Turn interviews and documents into structured, citable knowledge bases — automatically.**
-
 DSRAG (Document-Source Retrieval Augmented Generation) processes unstructured transcripts and documents through multiple analytical lenses in parallel, extracting stakeholder profiles, problems, value streams, and meeting intelligence — all with line-level source citations you can trace back and verify.
 
 ![high-level](docs/images/high-level.png)
